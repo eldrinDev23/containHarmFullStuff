@@ -7,5 +7,4 @@ It may look risky... and who knows what it really does?
 
 ## 🔧 Run
 
-```bash
-node remove.os
+
